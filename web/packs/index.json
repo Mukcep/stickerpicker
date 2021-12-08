@@ -1,6 +1,8 @@
 {
   "packs": [
-    "zamikstyle_by_fStikBot.json"
+    "zamikstyle_by_fStikBot.json",
+    "anomalys.json",
+    "yaeblan2020.json"
   ],
   "homeserver_url": "https://matrix.dedmorz.work/"
 }
